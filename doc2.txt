@@ -1,0 +1,2 @@
+search engines use inverted index
+algorithms power search engines
